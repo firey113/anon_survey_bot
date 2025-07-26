@@ -11,17 +11,17 @@ This project was built as a side experiment in civic tech and digital privacy. I
 
 ## Features
 
-- Anonymous voting
-- One user — one vote
-- Real-time vote counting
-- Secure data storage
+Anonymous voting
+One user — one vote
+Real-time vote counting
+Secure data storage
 
 ---
 
 ## Tech Stack
 
-- Python 3.10+
-- python-telegram-bot
-- SQLite
-- matplotlib
-- hashlib for anonymized ID hashing
+Python 3.10+
+python-telegram-bot
+SQLite
+matplotlib
+hashlib
